@@ -1,1 +1,1 @@
-# ms-config-properties
+microservices
